@@ -1,17 +1,5 @@
 # 👋 Abdulrahman Ali | DevOps Lead ☁️🚀
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Lead;Cloud+Architect;Kubernetes+Expert;Automation+Engineer;6%2B+Years+Experience" />
-</p>
-
-<p align="center">
-  <a href="mailto:eng.abdelrahman.ali.78@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/abdulrahman-ali-5aaa401a1/)/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
 
 ---
 
