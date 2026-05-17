@@ -8,7 +8,7 @@
   <a href="mailto:eng.abdelrahman.ali.78@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/abdulrahman-ali-5aaa401a1/)/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
