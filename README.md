@@ -24,7 +24,7 @@
 Experienced **DevOps Lead** with 6+ years designing **scalable, secure, production-grade infrastructure** across multi-cloud environments.
 
 ### 🔧 Core Expertise:
-- ☁️ Multi-Cloud (AWS, Azure, Huawei, Alibaba)
+- ☁️ Multi-Cloud (AWS, Azure, Huawei, GCP, Alibaba)
 - 📦 Kubernetes & Container Platforms
 - 🔁 CI/CD Automation & GitOps
 - 🏗️ Infrastructure as Code (Terraform, Pulumi)
